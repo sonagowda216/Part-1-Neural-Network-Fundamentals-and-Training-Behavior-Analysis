@@ -1,4 +1,0 @@
-Experiment,Hidden Layers,Learning Rate,Batch Size,Test Accuracy,Test Loss
-Exp 1 - Baseline,64->32,0.001,32,0.9875,0.1416
-Exp 2 - Extra Layer,64->32->16,0.001,32,0.9875,0.1973
-Exp 3 - High LR/Large Batch,64->32,0.01,64,0.985,0.2705
